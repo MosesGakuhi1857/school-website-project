@@ -44,5 +44,8 @@ ul li {
     padding:20px;
 }
 section{
-    ba
+    background-image:url(./assets/schoolchildren.2.jpg);
+    height:;
+    width:100%;
+    background-repeat: no-repeat;
 }
