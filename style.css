@@ -16,3 +16,33 @@
 #email{
     padding :5px;
 }
+.navigation-bar{
+    display: flex;
+    align-items: center;
+    background-color: darkgray;
+}
+.F{
+    font-size:3rem;
+    margin-left: 100px;
+    box-sizing: border-box;
+    padding: 25px;
+    background-color: darkred;
+    font-family:monospace;
+}
+.navss li{
+    list-style: none;
+
+}
+.navss ul {
+display: flex;
+justify-content: space-between;
+margin-left: 800px;
+color:white;
+}
+
+ul li {
+    padding:20px;
+}
+section{
+    ba
+}
