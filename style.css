@@ -43,7 +43,7 @@ color:white;
 ul li {
     padding:20px;
 }
-section{
+.img{
     background-image:url(./assets/schoolchildren.01.jpg);
     height:500px;
     width:100%;
