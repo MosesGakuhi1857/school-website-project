@@ -138,3 +138,8 @@ ul li {
     font-size: 2rem;
     color:white;
 }
+
+.column-1-sec4,.column-2-sec4,#column-3-sec4{
+    display: flex;
+    flex-direction: row;
+}
