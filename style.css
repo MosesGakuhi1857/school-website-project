@@ -32,9 +32,9 @@
     font-size:3rem;
     margin-left: 180px;
     background-color: rgb(187, 84, 84);
-    font-family:monospace;
-    padding:13px;
-    width: 60px;
+    font-family: 'Dela Gothic One', cursive;
+    padding:3px;
+    width: 50px;
     text-align: center;
     
 }
@@ -170,11 +170,12 @@ ul li {
     font-size:3rem;
     margin-left: 30px;
     background-color: rgb(187, 84, 84);
-    font-family:monospace;
-    padding:13px;
+    font-family:'Dela Gothic One', cursive;
+    padding:3px;
     width: 60px;
     text-align: center;
     color:black;
+    
     
 }
 #icon{
