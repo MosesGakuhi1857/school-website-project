@@ -127,9 +127,14 @@ ul li {
 }
 .section-4{
     background-color: lightskyblue;
+    height: auto;
+    margin-top: -50px;
+    padding: 20px;
+
+
 }
 .enroll{
     text-align: center;
-    font-size: 3rem;
+    font-size: 2rem;
     color:white;
 }
