@@ -1,0 +1,18 @@
+.header{
+    background-color: rgb(61, 57, 57);
+    display: flex;
+    align-items: center;
+    color:cornflowerblue;
+}
+.phone-email{
+    margin-left: 1000px;
+}
+.soc-icons{
+    margin-left:30px;
+}
+#phone{
+    padding: 5px;
+}
+#email{
+    padding :5px;
+}
