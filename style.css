@@ -24,7 +24,7 @@
 .navigation-bar{
     display: flex;
     align-items: center;
-    background-color: darkgray;
+    background-color: rgb(45, 52, 61);
     height:10vh;
 
 }
@@ -142,7 +142,7 @@ ul li {
 /*start of styling footer*/
 .section-5{
     background-color: rgb(45, 52, 61);
-    height:70%;
+    height:30%;
 }
 .column-1-sec4,.column-2-sec4,#column-3-sec4{
     display: flex;
@@ -194,6 +194,10 @@ span{
     margin-left:90px ;
 }
 footer{
-    align-items: center;
+    background-color: rgb(61, 57, 57);;
     font-size: 1rem;
+    text-align: center;
+    height:20px;
+    color:white;
+    padding:20px;
 }
