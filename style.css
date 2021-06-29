@@ -20,14 +20,18 @@
     display: flex;
     align-items: center;
     background-color: darkgray;
+    height:10vh;
+
 }
 .F{
     font-size:3rem;
-    margin-left: 100px;
-    box-sizing: border-box;
-    padding: 25px;
-    background-color: darkred;
+    margin-left: 180px;
+    background-color: rgb(187, 84, 84);
     font-family:monospace;
+    padding:13px;
+    width: 50px;
+    text-align: center;
+    
 }
 .navss li{
     list-style: none;
@@ -36,7 +40,7 @@
 .navss ul {
 display: flex;
 justify-content: space-between;
-margin-left: 800px;
+margin-left: 700px;
 color:white;
 }
 
@@ -44,10 +48,11 @@ ul li {
     padding:20px;
 }
 .img{
-    background-image:url(./assets/schoolchildren.01.jpg);
+    background-image:url(./assets/schoolchildren.02.jpeg);
     height:500px;
     width:100%;
     background-repeat: no-repeat;
+    object-fit: fill;
 }
 .sch-titles{
     align-items: center;
@@ -62,11 +67,37 @@ ul li {
 .amazing-teachers{
     display: flex;
     justify-content: space-around;
-    background-color: cornflowerblue;
+    background-color: rgb(148, 182, 247);
     padding:20px;
     margin:5px;
     margin-left:200px;
     margin-right: 200px;
     margin-top:-30px;
     color:white;
+    font-size: 2rem;
+}
+.sec-2{
+    background-color: white;
+
+}
+.column-1{
+    display: flex;
+    justify-content: space-around;
+    margin:10px;
+}
+.column-2{
+    display:flex;
+    justify-content: space-around;
+    margin:10px;
+}
+
+.ob11 #card1 {
+
+    color:lightblue;
+    float: left;
+    margin-top: 50px;
+}
+.content{ 
+    float:right;
+    padding: 25px;
 }
