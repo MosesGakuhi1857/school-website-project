@@ -34,7 +34,7 @@
     background-color: rgb(187, 84, 84);
     font-family: 'Dela Gothic One', cursive;
     padding:3px;
-    width: 50px;
+    width: 80px;
     text-align: center;
     
 }
@@ -151,7 +151,7 @@ ul li {
 }
 #column-1,#column-2,#column-3{
     padding: 5px;
-    margin-left: 70px;
+    margin-left: 50px;
     padding-right: 20px;
 
 }
@@ -172,7 +172,7 @@ ul li {
     background-color: rgb(187, 84, 84);
     font-family:'Dela Gothic One', cursive;
     padding:3px;
-    width: 60px;
+    width: 90px;
     text-align: center;
     color:black;
     
@@ -189,7 +189,8 @@ ul li {
 #column-2>h3, #column-3 >h3{
     margin-left:60px;
     color:white;
-    font-size:1rem;
+    font-size:2rem;
+    font-family: 'Dela Gothic One', cursive;
 }
 span{
     margin-left:90px ;
